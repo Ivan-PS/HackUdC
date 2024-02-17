@@ -1,0 +1,1 @@
+enum InputType { NONE, TEXT, DATE, SELECTOR, BOOLEAN, NUMBER }
